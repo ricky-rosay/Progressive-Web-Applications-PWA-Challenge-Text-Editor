@@ -1,25 +1,17 @@
 {
-  "name": "JATE",
+  "name": "progressive-web-applications-pwa-challenge-text-editor-19",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "A text editor that runs in the browser.",
+  "main": "index.js",
   "scripts": {
-    "start:dev": "",
-    "start": "",
-    "server": "",
-    "build": "",
-    "install": "",
-    "client": ""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
-    "if-env": "^1.0.4"
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4"
   }
 }
+
