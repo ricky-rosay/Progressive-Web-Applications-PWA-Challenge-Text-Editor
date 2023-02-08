@@ -10,6 +10,7 @@ npm run start
 this will build the dist folder and start the local host
 
 ## Usage
+<img width="1506" alt="sidebyside" src="https://user-images.githubusercontent.com/111669764/217395935-23f6b3c8-4e1c-417d-acc1-c7c0836fb4b2.png">
 <img width="1179" alt="offlineAPP" src="https://user-images.githubusercontent.com/111669764/217395588-380a7fb8-0f73-4909-ac66-8b14d8a3bf93.png">
 <img width="1507" alt="manifest json" src="https://user-images.githubusercontent.com/111669764/217395597-2f0bece5-a04e-4297-92bb-3bc0397e4695.png">
 <img width="1508" alt="indexedDB" src="https://user-images.githubusercontent.com/111669764/217395610-9f02f300-8be7-4ee3-ba10-dd57be43ed42.png">
